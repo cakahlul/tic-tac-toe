@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Tic-tac-toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains tic-tac-toe application from https://reactjs.org/tutorial/tutorial.html. <br>
+Created as sample reactjs project with purpose to revisit and refresh reactjs library knowledge.
 
 ## Available Scripts
 
